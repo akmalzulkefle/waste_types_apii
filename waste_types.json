@@ -1,0 +1,77 @@
+{
+  "data":
+ [
+  {
+    "id": 1,
+    "wasteTypes": "Domestic Waste",
+    "hazardTypes": "Non-Hazardous Waste",
+    "wasteImage": "https://eartheclipse.com/wp-content/uploads/2018/06/garbage-pollution-waste.jpg"
+  },
+  {
+    "id": 2,
+    "wasteTypes": "Medical Waste",
+    "hazardTypes": "Hazardous/Non-Hazardous Waste",
+    "wasteImage": "https://hospitalpharmacyeurope.com/wp-content/uploads/2011/01/Medical-waste.jpg"
+  },
+  {
+    "id": 3,
+    "wasteTypes": "Electronic Waste",
+    "hazardTypes": "Hazardous/Non-Hazardous Waste",
+    "wasteImage": "https://www.genevaenvironmentnetwork.org/wp-content/uploads/2020/09/ewaste-aspect-ratio-2000-1200-1024x614.jpg"
+  },
+  {
+    "id": 4,
+    "wasteTypes": "Agricultural Waste",
+    "hazardTypes": "Non-Hazardous Waste",
+    "wasteImage": "https://i0.wp.com/wealthinwastes.com/wp-content/uploads/2022/11/List-of-Recycled-Products-that-Can-be-Produced-from-Agricultural-Waste.jpg"
+  },
+  {
+    "id": 5,
+    "wasteTypes": "Animal Waste",
+    "hazardTypes": "Non-Hazardous Waste",
+    "wasteImage": "https://www.bigberkeywaterfilters.com/media/wysiwyg/blog/2017/03/740px-Hestem%C3%B8j1-e1490884577834.jpg"
+  },
+  {
+    "id": 6,
+    "wasteTypes": "Radioactive Waste",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://global-uploads.webflow.com/5df522f535688c5fb30a8c0d/631980132d3a8d52db0be007_shutterstock_1943122138%20(1)%20(1).jpg"
+  },
+  {
+    "id": 7,
+    "wasteTypes": "Construction and Demolition Debris",
+    "hazardTypes": "Non-Hazardous Waste",
+    "wasteImage": "https://researchleap.com/wp-content/uploads/2023/03/ezgif.com-webp-to-jpg-702x336.jpg"
+  },
+  {
+    "id": 8,
+    "wasteTypes": "Sewage Sludge",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://sustainablefingerlakes.org/wp-content/uploads/2020/03/sludge.jpg"
+  },
+  {
+    "id": 9,
+    "wasteTypes": "Extraction and Mining Waste",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://blog.skycatch.com/hubfs/highland_l-l_tailings_dam_p3212342.jpg"
+  },
+  {
+    "id": 10,
+    "wasteTypes": "Oil and Gas Production Waste",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/X6FFOMZR3WPSREGBGLVIMNZKEA.jpg"
+  },
+  {
+    "id": 11,
+    "wasteTypes": "Fossil Fuel",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://www.snexplores.org/wp-content/uploads/2023/01/1030_Radio_C_dating_feat.jpg"
+  },
+  {
+    "id": 12,
+    "wasteTypes": "Combustion Waste",
+    "hazardTypes": "Hazardous Waste",
+    "wasteImage": "https://english.onlinekhabar.com/wp-content/uploads/2021/04/Environmental_Disaster_6983486731-Wikimedia-Commons-scaled.jpg"
+  }
+ ]
+}

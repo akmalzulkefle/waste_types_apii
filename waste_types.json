@@ -5,19 +5,19 @@
     "id": 1,
     "wasteTypes": "Domestic Waste",
     "hazardTypes": "Non-Hazardous Waste",
-    "wasteImage": "https://eartheclipse.com/wp-content/uploads/2018/06/garbage-pollution-waste.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDgzfHxkb21lc3RpYyUyMHdhc3RlfGVufDB8fHx8MTY4MTU5MDA1MA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 2,
     "wasteTypes": "Medical Waste",
     "hazardTypes": "Hazardous/Non-Hazardous Waste",
-    "wasteImage": "https://hospitalpharmacyeurope.com/wp-content/uploads/2011/01/Medical-waste.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1605176173609-a0067079b419?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDM3fHxtZWRpY2FsJTIwd2FzdGV8ZW58MHx8fHwxNjgxNTkwMTAz&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 3,
     "wasteTypes": "Electronic Waste",
     "hazardTypes": "Hazardous/Non-Hazardous Waste",
-    "wasteImage": "https://www.genevaenvironmentnetwork.org/wp-content/uploads/2020/09/ewaste-aspect-ratio-2000-1200-1024x614.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1612965110667-4175024b0dcc?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDJ8fGVsZWN0cm9uaWMlMjB3YXN0ZXxlbnwwfHx8fDE2ODE1OTAxMjc&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "id": 5,
     "wasteTypes": "Animal Waste",
     "hazardTypes": "Non-Hazardous Waste",
-    "wasteImage": "https://www.bigberkeywaterfilters.com/media/wysiwyg/blog/2017/03/740px-Hestem%C3%B8j1-e1490884577834.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1511478907007-2f761980416b?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDN8fGFuaW1hbCUyMHdhc3RlfGVufDB8fHx8MTY4MTU5MDM0MQ&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 6,
@@ -41,19 +41,19 @@
     "id": 7,
     "wasteTypes": "Construction and Demolition Debris",
     "hazardTypes": "Non-Hazardous Waste",
-    "wasteImage": "https://researchleap.com/wp-content/uploads/2023/03/ezgif.com-webp-to-jpg-702x336.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1419848449479-6c8a7d8d62c2?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDl8fGNvbnN0cnVjdGlvbiUyMGRlYnJpc3xlbnwwfHx8fDE2ODE1OTA0NzA&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 8,
     "wasteTypes": "Sewage Sludge",
     "hazardTypes": "Hazardous Waste",
-    "wasteImage": "https://sustainablefingerlakes.org/wp-content/uploads/2020/03/sludge.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1615396415688-47c0ae4ab453?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDQxfHxzZXdhZ2UlMjBzbHVkZ2V8ZW58MHx8fHwxNjgxNTkwNTM3&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 9,
     "wasteTypes": "Extraction and Mining Waste",
     "hazardTypes": "Hazardous Waste",
-    "wasteImage": "https://blog.skycatch.com/hubfs/highland_l-l_tailings_dam_p3212342.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1483638906402-d942f4840969?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDF8fHF1YXJ5fGVufDB8fHx8MTY4MTU5MDU4Mg&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 10,
@@ -65,13 +65,13 @@
     "id": 11,
     "wasteTypes": "Fossil Fuel",
     "hazardTypes": "Hazardous Waste",
-    "wasteImage": "https://www.snexplores.org/wp-content/uploads/2023/01/1030_Radio_C_dating_feat.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDJ8fGZvc3NpbCUyMGZ1ZWx8ZW58MHx8fHwxNjgxNTkwNjAz&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   },
   {
     "id": 12,
     "wasteTypes": "Combustion Waste",
     "hazardTypes": "Hazardous Waste",
-    "wasteImage": "https://english.onlinekhabar.com/wp-content/uploads/2021/04/Environmental_Disaster_6983486731-Wikimedia-Commons-scaled.jpg"
+    "wasteImage": "https://images.unsplash.com/photo-1611174797136-5e167ea90d6c?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDV8fGNvbWJ1c3Rpb258ZW58MHx8fHwxNjgxNTkwNjMw&ixlib=rb-4.0.3&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450"
   }
  ]
 }
